@@ -14,5 +14,5 @@ def exactly_two_positive(a, b, c):
     return positive_count == 2
 
 # Example usage:
-result = exactly_two_positive(2, 12, -3)
-print(result)  # Output: True
+result = exactly_two_positive(23, 15, -3)
+print(result) 
