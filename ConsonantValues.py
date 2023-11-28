@@ -22,4 +22,4 @@ def highest_consonant_value(word):
 
     print(max_value)
 
-highest_consonant_value("cristiano")
+highest_consonant_value("messi")
