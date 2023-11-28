@@ -32,6 +32,6 @@ Function Overview
 The consonant_value_calculation(word) function takes a lowercase string with alphabetic characters and returns the highest value among its consonant substrings.
 
 ## Author
-Adrian Mokua
+Shaun Omari
 ## License
 This code is under the MIT license.
